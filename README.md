@@ -1,1 +1,1 @@
-# SN_Project
+# Social Networks Project
